@@ -3,6 +3,8 @@ Flask News Sentiment Analysis App
 
 This is a Flask web application that fetches news articles based on a given topic and date, analyzes the sentiment of the articles using a pretrained BERTweet model, and stores the results in a SQLite database.
 
+![photo_2024-09-29 11 30 06](https://github.com/user-attachments/assets/f9e56ca8-43d8-43c5-9252-2ea7316828c3)
+
 Features
 --------
 
